@@ -15,3 +15,7 @@
 ## Lose weight up to 66 kg
 
 ### How to
+
+## An average of 200 blog visitors
+
+### How to
