@@ -16,6 +16,6 @@
 
 ### How to
 
-## An average of 200 blog visitors
+## Blog average visitors exceed 200
 
 ### How to
