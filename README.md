@@ -1,15 +1,17 @@
-# whatwant-2020
+# New Year's Goals
 
-## New Year's Goals
+## Open Source Contribute
 
-### Open Source Contribute
-- How to
+### How to
 
-### Attend an external conference as a speaker
-- How to
+## Attend an external conference as a speaker
 
-### OPIc Grade 2
-- How to
+###How to
 
-### Lose weight up to 66 kg
-- How to
+## OPIc Grade 2
+
+### How to
+
+## Lose weight up to 66 kg
+
+### How to
