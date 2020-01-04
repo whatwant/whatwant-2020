@@ -21,6 +21,10 @@
 
 ## Blog average visitors exceed 200
 
+### History
+
+- (20.01.04) 총방문자수: 1,464,279
+
 ### How to
 
 ## Deciding whether to enter graduate school
