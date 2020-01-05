@@ -3,14 +3,21 @@
 ## Open Source Contribute
 
 ### How to
+- 내가 기여할 수 있는 오픈소스 프로젝트는?
+- 코드 외에도 Sample 또는 Tutorial 등에도 기여할 수 있음
 
 ## Attend an external conference as a speaker
 
 ### How to
+- 내가 발표할 수 있는 주제는 무엇일까?
+  - Git/GitHub
+  - 4차 산업혁명 시대의 SW 코딩 교육
+  - MLOps
 
 ## OPIc Grade 2
 
 ### How to
+- 공부를 어떻게 / 무엇을 할 것인지에 대한 계획 수립
 
 ## Lose weight up to 66 kg
 
@@ -22,7 +29,6 @@
 ## Blog average visitors exceed 200
 
 ### History
-
 - (20.01.04) 총방문자수: 1,464,279
 
 ### How to
