@@ -1,4 +1,4 @@
-# New Year's Goals
+# New Year's Resolution
 
 ## Open Source Contribute
 
@@ -25,6 +25,7 @@
 - 카르보넨 공식 : 목표 심박수 = (220 - 나이 - 안정시심박수) * 운동강도% + 안정시심박수
   - (20.01.01) 127.5 (운동강도 50%) : 2주간 유지 후 운동강도 올리자!
   - (20.01.02) 50% 운동 강도 확인 = 6.5km (125~130) 심박수
+  - (20.01.06) 기준 몸무게 71.3 kg
 
 ## Blog average visitors exceed 200
 
