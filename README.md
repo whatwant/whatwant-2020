@@ -17,7 +17,7 @@
 ## OPIc Grade 2
 
 ### How to
-- 공부를 어떻게 / 무엇을 할 것인지에 대한 계획 수립
+- (20.01.07) Pop-Song 강의 듣고 흥얼거리기 (1song/1week)
 
 ## Lose weight up to 66 kg
 
