@@ -34,6 +34,16 @@
 
 ### How to
 
+## Make over 2 makers
+
+### Product #1: 인형 뽑기 머신
+
+- How to
+
+### Product #2: 
+
+- How to
+
 ## Deciding whether to enter graduate school
 
 ### 대학원 비교
@@ -47,5 +57,3 @@
 | 원서접수 (전기)           | '19.10.28 ~ 11.7                        |                       |                        |
 | 원서접수 (후기)           | '19.04.29 ~ 5.9                         |                       |                        |
 | 등록금                   | 7,220.9                                  | 2,705                 | 7,369.9               |
-
-
