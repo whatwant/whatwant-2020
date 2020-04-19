@@ -15,6 +15,7 @@
   - Git/GitHub
   - 4차 산업혁명 시대의 SW 코딩 교육
   - MLOps
+  - Flutter
 
 
 ## OPIc Grade 2
