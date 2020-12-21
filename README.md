@@ -8,6 +8,12 @@
 - 코드 외에도 Sample 또는 Tutorial 등에도 기여할 수 있음
 
 
+## Associate Architect
+
+### How to
+- 재도전 and take it
+
+
 ## Attend an external conference as a speaker
 
 ### How to
