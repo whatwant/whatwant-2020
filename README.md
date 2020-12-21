@@ -70,6 +70,14 @@
 -
 
 
+## Become the best Kubernetes expert in my department
+
+### Leading the study
+
+- 
+
+
+
 ## Deciding whether to enter graduate school
 
 ### 대학원 비교
